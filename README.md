@@ -19,3 +19,4 @@ git clone https://github.com/furkangelensoy/mineSweeper.git
 - Invalid coordinate input. ![](https://github.com/furkangelensoy/mineSweeper/blob/master/pictures/invalidCoordinate.PNG)
 - Lose game! ![](https://github.com/furkangelensoy/mineSweeper/blob/master/pictures/loseGame.png)
 - Win game! ![](https://github.com/furkangelensoy/mineSweeper/blob/master/pictures/winGame.PNG)
+### ENJOY!
